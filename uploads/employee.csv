@@ -1,0 +1,16 @@
+Age,Experience,Department,Salary,Purchased
+25,2,HR,30000,Yes
+30,5,IT,50000,No
+22,1,HR,25000,Yes
+40,10,Finance,70000,No
+35,7,IT,65000,Yes
+28,3,Marketing,45000,No
+32,6,Finance,55000,Yes
+45,15,Management,85000,No
+29,4,IT,48000,Yes
+31,5,HR,52000,No
+38,9,Finance,72000,Yes
+27,2,Marketing,40000,No
+34,8,Management,68000,Yes
+26,3,IT,42000,No
+41,12,Finance,78000,Yes
